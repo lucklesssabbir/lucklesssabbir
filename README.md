@@ -11,7 +11,7 @@ Hi, I’m **MD Sabbir Hossen** – a passionate **web developer**, enthusiastic 
 ## 📫 Connect With Me  
 - **Email**: [backtosabbir@gmail.com](mailto:backtosabbir@gmail.com)  
 - **Telegram**: [@backtosabbir](https://t.me/backtosabbir)  
-- **Discord**: [backtosabbir](https://discord.com/backtosabbir)  
+- **Discord**: [backtosabbir](https://discord.com/)  
 - **LinkedIn**: [Sabbir Hossen](https://www.linkedin.com/in/backtosabbir)  
 
 ## ⚡ Technologies & Skills  
