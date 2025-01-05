@@ -1,9 +1,9 @@
 # 👋 Welcome to My GitHub Profile  
 
-Hi, I’m **MD Sabbir Hossen** – a passionate **web developer**, enthusiastic **crypto community manager**, and a **blockchain lover** with a growing interest in **AI technologies**.  
+Hi, I’m **MD Sabbir Hossen** – a passionate **web developer**, enthusiastic **crypto community manager** and a **blockchain lover** with a growing interest in **AI technologies**.  
 
 ## 🌟 About Me  
-- 🌐 **Web Developer**: Building clean, efficient, and responsive websites.  
+- 🌐 **Web Developer**: Building clean, efficient and responsive websites.  
 - 🛠️ **Blockchain Enthusiast**: Exploring decentralized technologies and contributing to crypto communities.  
 - 🤖 **AI Enthusiast**: Delving into the potential of artificial intelligence and its applications.  
 - 🤝 **Community Manager**: Engaging and growing communities in the blockchain and cryptocurrency space.  
