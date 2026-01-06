@@ -12,7 +12,7 @@ Hi, I’m **MD Sabbir Hossen** – a passionate **web developer**, enthusiastic 
 - **Email**: [backtosabbir@gmail.com](mailto:backtosabbir@gmail.com)  
 - **Telegram**: [@backtosabbir](https://t.me/backtosabbir)  
 - **Discord**: [backtosabbir](https://discord.com/)  
-- **LinkedIn**: [Sabbir Hossen](https://www.linkedin.com/in/backtosabbir)  
+- **LinkedIn**: [Sabbir Hossen](https://www.linkedin.com/in/sabbir2026)  
 
 ## ⚡ Technologies & Skills  
 - **Web Development**: HTML, CSS, Bootstrap, JavaScript, Node js, Express js and ejs .  
